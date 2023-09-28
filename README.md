@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi I'm Rabbit 🐇
 
-<!--
-**Ra33it0/ra33it0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to ab(use) technology for fun and profit.
 
-Here are some ideas to get you started:
+I am an entrepreneur who likes to strengthen the power of individuals via open source software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm deep in the NixOS rabbit hole, happily lost and not looking for a way out!
+
+Over the past few years, I have dedicated my time to the world of information security, blockchain and sustainability.
+I developed tools and platforms for the Polkadot blockchain including a solution for on chain audits, as well as doing OSINT analysis and a some Nix-based infrastructure projects in the real estate industry.
+
+My interests are privacy preserving technologies and antifragile systems.
+
+### Links
+
+* [My fresh new blog](ra33it0.github.io) where I'll share intriguing nuggets of knowledge I'm picking up, and who knows, maybe a sprinkle of other stuff too! 🤷‍♂️"
+
+* My socials 
+
