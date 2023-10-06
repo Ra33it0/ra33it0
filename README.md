@@ -13,7 +13,9 @@ My interests are privacy preserving technologies and antifragile systems.
 
 ### Links
 
-* [My fresh new blog](ra33it0.github.io) where I'll share intriguing nuggets of knowledge I'm picking up, and who knows, maybe a sprinkle of other stuff too! 🤷‍♂️"
+* [My fresh new blog](https://ra33it0.github.io) where I'll share intriguing nuggets of knowledge I'm picking up, and who knows, maybe a sprinkle of other stuff too! 🤷‍♂️"
 
 * My socials 
-
+email: "hello@sporyon.io"
+[twitter](https://twitter.com/ra33it0)
+[linkedin](https://www.linkedin.com/in/sebastian-kraus-97a65a1a7/)
