@@ -17,5 +17,7 @@ My interests are privacy preserving technologies and antifragile systems.
 
 * My socials 
 email: "hello@sporyon.io"
-[twitter](https://twitter.com/ra33it0)
-[linkedin](https://www.linkedin.com/in/sebastian-kraus-97a65a1a7/)
+
+Add me on [twitter](https://twitter.com/ra33it0)
+
+Add me on [linkedin](https://www.linkedin.com/in/sebastian-kraus-97a65a1a7/)
