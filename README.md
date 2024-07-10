@@ -1,6 +1,6 @@
 ### Hi I'm Rabbit 🐇
 
-I like to ab(use) technology for fun and profit.
+I like to (ab)use technology for fun and profit.
 
 I am an entrepreneur who likes to strengthen the power of individuals via open source software.
 
