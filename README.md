@@ -1,15 +1,19 @@
 ### Hi I'm Rabbit 🐇
-
 I like to (ab)use technology for fun and profit.
 
-I am an entrepreneur who likes to strengthen the power of individuals via open source software.
+As a developer and entrepreneur, I’m passionate about strengthening individual agency through open-source software.
 
 Currently, I'm deep in the NixOS rabbit hole, happily lost and not looking for a way out!
 
-Over the past few years, I have dedicated my time to the world of information security, blockchain and sustainability.
-I developed tools and platforms for the Polkadot blockchain including a solution for on chain audits, as well as doing OSINT analysis and a some Nix-based infrastructure projects in the real estate industry.
+In recent years, I’ve worked at the intersection of information security, infrastructure, and sustainability. My journey includes:
+- Building Nix-based infrastructure projects for the real estate sector.
 
-My interests are privacy preserving technologies and distributed systems.
+- Developing [infrastructure](https://github.com/sporyon/dotnix-core) to enhance security in distributed systems.
+
+- Organizing [NixCon 2024](https://2024.nixcon.org/)
+
+
+My key interests lie in privacy-preserving technologies, Nix and distributed systems.
 
 ### Links
 Add me on [linkedin](https://www.linkedin.com/in/sebastian-kraus-97a65a1a7/)
